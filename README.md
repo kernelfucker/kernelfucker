@@ -1,6 +1,4 @@
-### what's up, bro?
-
-there's not much about me here.
+what's up, bro? there's not much about me here.
 
 list of projects;
 
