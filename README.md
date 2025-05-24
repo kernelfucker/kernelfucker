@@ -1,8 +1,8 @@
 ## what's up, bro?
 
-## there's not much about me here.
+there's not much about me here.
 
-## list of projects;
+list of projects;
 
 - [xs](https://github.com/kernelfucker/xs): just a image viewer, but thats so minimal
 - [fless](https://github.com/kernelfucker/fless): 105 lines of flac player
