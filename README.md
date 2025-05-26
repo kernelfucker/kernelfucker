@@ -2,6 +2,7 @@ what's up, bro? there's not much about me here.
 
 list of projects;
 
+- [init](https://github.com/kernelfucker/init): minimal init for unix-like systems
 - [xs](https://github.com/kernelfucker/xs): minimal image viewer
 - [fless](https://github.com/kernelfucker/fless): 105 lines of flac player
 - [death](https://github.com/kernelfucker/death): minimal disk input/output viewer
