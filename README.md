@@ -2,6 +2,7 @@ what's up, bro? there's not much about me here.
 
 list of projects;
 
+- [rc](https://github.com/kernelfucker/rc): vim-style cli file manager
 - [ef](https://github.com/kernelfucker/ef): powerful text editor
 - [dmap](https://github.com/kernelfucker/dmap): dynamic minimal network mapper
 - [snow](https://github.com/kernelfucker/snow): minimal port scanner
