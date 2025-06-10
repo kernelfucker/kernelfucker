@@ -2,6 +2,7 @@ what's up, bro? there's not much about me here.
 
 list of projects;
 
+- [road](https://github.com/kernelfucker/road): execute commands as another user
 - [rc](https://github.com/kernelfucker/rc): vim-style cli file manager
 - [ef](https://github.com/kernelfucker/ef): powerful text editor
 - [dmap](https://github.com/kernelfucker/dmap): dynamic minimal network mapper
