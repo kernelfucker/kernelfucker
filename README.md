@@ -2,7 +2,7 @@ what's up, bro? there's not much about me here.
 
 list of projects;
 
-- [tor-keeper](https://github.com/kernelfucker/tor-keeper): system-wide tor keeper
+- [tor-keeper](https://github.com/kernelfucker/tor-keeper): system-wide tor keeper/tunnel
 - [road](https://github.com/kernelfucker/road): execute commands as another user
 - [rc](https://github.com/kernelfucker/rc): vim-style cli file manager
 - [ef](https://github.com/kernelfucker/ef): powerful text editor
