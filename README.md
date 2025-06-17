@@ -2,6 +2,7 @@ what's up, bro? there's not much about me here.
 
 list of projects;
 
+- [malloct](https://github.com/kernelfucker/malloct): LD_PRELOAD rootkit
 - [tor-keeper](https://github.com/kernelfucker/tor-keeper): system-wide tor keeper/tunnel
 - [road](https://github.com/kernelfucker/road): execute commands as another user
 - [rc](https://github.com/kernelfucker/rc): vim-style cli file manager
