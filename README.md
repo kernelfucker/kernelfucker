@@ -2,6 +2,7 @@ what's up, bro? there's not much about me here.
 
 list of projects;
 
+- [llock](https://github.com/kernelfucker/llock): logical x display locker
 - [killer](https://github.com/kernelfucker/killer): dd-like utility
 - [malloct](https://github.com/kernelfucker/malloct): LD_PRELOAD rootkit
 - [tor-keeper](https://github.com/kernelfucker/tor-keeper): system-wide tor keeper/tunnel
