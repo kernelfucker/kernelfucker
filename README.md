@@ -2,7 +2,7 @@ what's up, bro? there's not much about me here.
 
 list of projects;
 
-- [table](https://github.com/kernelfucker/table): network analyzerq \[waiting\]
+- [table](https://github.com/kernelfucker/table): network analyzer
 - [llock](https://github.com/kernelfucker/llock): logical x display locker
 - [killer](https://github.com/kernelfucker/killer): dd-like utility
 - [malloct](https://github.com/kernelfucker/malloct): LD_PRELOAD rootkit
