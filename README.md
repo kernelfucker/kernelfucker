@@ -7,7 +7,7 @@ list of projects;
 - [llock](https://github.com/kernelfucker/llock): logical x display locker
 - [killer](https://github.com/kernelfucker/killer): dd-like utility
 - [malloct](https://github.com/kernelfucker/malloct): LD_PRELOAD rootkit
-- [tor-keeper](https://github.com/kernelfucker/tor-keeper): system-wide tor keeper
+- [tor-keeper](https://github.com/kernelfucker/tor-keeper): system-wide tor keeper/tunnel
 - [road](https://github.com/kernelfucker/road): execute commands as another user
 - [rc](https://github.com/kernelfucker/rc): vim-style cli file manager
 - [ef](https://github.com/kernelfucker/ef): powerful text editor
