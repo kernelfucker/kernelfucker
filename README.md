@@ -2,6 +2,7 @@ what's up, bro? there's not much about me here.
 
 list of projects;
 
+- [lethargy](https://github.com/kernelfucker/lethargy): yescrypt passwd hasher
 - [table](https://github.com/kernelfucker/table): network analyzer
 - [llock](https://github.com/kernelfucker/llock): logical x display locker
 - [killer](https://github.com/kernelfucker/killer): dd-like utility
