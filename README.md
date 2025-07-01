@@ -4,7 +4,7 @@ list of projects;
 
 - [left-donut](https://github.com/kernelfucker/left-donut): a donut that spins immediately
 - [dldd](https://github.com/kernelfucker/dldd): less-like utility
-- [mbase](https://github.com/kernelfucker/mbase): minimal base, replacement of sbase \[waiting\]
+- [mbase](https://github.com/kernelfucker/mbase): minimal base, replacement of sbase
 - [lethargy](https://github.com/kernelfucker/lethargy): yescrypt passwd hasher
 - [table](https://github.com/kernelfucker/table): network analyzer
 - [llock](https://github.com/kernelfucker/llock): logical x display locker
