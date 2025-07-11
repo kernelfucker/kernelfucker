@@ -2,7 +2,7 @@ what's up, bro? there's not much about me here.
 
 list of projects;
 
-- [sslv](https://github.com/kernelfucker/sslv): auto scanning to ssl vulnerability
+- [sslv](https://github.com/kernelfucker/sslv): ssl vulnerability scanner
 - [hook](https://github.com/kernelfucker/hook): minimal screenshot utility
 - [left-donut](https://github.com/kernelfucker/left-donut): a donut that spins immediately
 - [dldd](https://github.com/kernelfucker/dldd): less-like utility
