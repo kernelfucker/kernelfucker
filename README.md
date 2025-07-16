@@ -1,7 +1,7 @@
 what's up, bro? there's not much about me here.
 
 list of projects;
-
+- [mindln](https://github.com/kernelfucker/mindln): x86_64 linux ransomware utility with false-login
 - [sslv](https://github.com/kernelfucker/sslv): ssl vulnerability scanner
 - [hook](https://github.com/kernelfucker/hook): minimal screenshot utility
 - [left-donut](https://github.com/kernelfucker/left-donut): a donut that spins immediately
