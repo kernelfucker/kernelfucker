@@ -1,6 +1,7 @@
 what's up, bro? there's not much about me here.
 
 list of projects;
+- [theoretic](https://github.com/kernelfucker/theoretic): adventure-based theoretic frame
 - [alcoholic](https://github.com/kernelfucker/alcoholic): eyes that follow the mouse in x
 - [pd](https://github.com/kernelfucker/pd): list the nics
 - [fh](https://github.com/kernelfucker/fh): minimal system fetch utility
